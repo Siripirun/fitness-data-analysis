@@ -1,7 +1,5 @@
-# fitness-data-analysis-project
-Python-based analysis of Fitbit activity data exploring relationships between physical activity, calories, and performance.
-
 # Fitness Data Analysis: Activity, Calories & Performance
+Python-based analysis of Fitbit activity data exploring relationships between physical activity, calories, and performance.
 
 ## Overview
 This project analyses Fitbit activity data to explore the relationship between physical activity, calorie expenditure, and performance metrics.

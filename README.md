@@ -64,7 +64,3 @@ This project highlights the application of data analysis techniques to personal 
 ## Author
 Siripirun (Tan) Saritasurarak
 
----
-
-## Author
-Siripirun (Tan) Saritasurarak

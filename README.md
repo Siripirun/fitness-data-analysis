@@ -1,11 +1,10 @@
 # Fitness Data Analysis: Activity, Calories & Performance
 
-This project applies exploratory data analysis (EDA) techniques to fitness tracking data to explore patterns in physical activity, calorie expenditure, and performance.
+This project applies exploratory data analysis (EDA) techniques to fitness tracking data to analyse patterns in physical activity, calorie expenditure, and performance.
 
-The objective is to identify relationships between movement, exercise intensity, and energy expenditure, and to translate these findings into practical insights that can support healthier and more data-informed fitness decisions.
+The objective is to identify relationships between movement, exercise intensity, and energy expenditure, and to translate these findings into actionable insights that support better fitness decision-making.
 
-This project highlights the application of data analysis techniques to personal fitness tracking and demonstrates readiness for further study in Data Science and AI.
-
+The analysis demonstrates how data-driven approaches can be used to understand behavioural patterns and improve performance outcomes, highlighting the practical application of data science in health and fitness.
 ---
 
 ## Tools Used

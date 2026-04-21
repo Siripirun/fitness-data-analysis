@@ -5,6 +5,7 @@ This project applies exploratory data analysis (EDA) techniques to fitness track
 The objective is to identify relationships between movement, exercise intensity, and energy expenditure, and to translate these findings into actionable insights that support better fitness decision-making.
 
 The analysis demonstrates how data-driven approaches can be used to understand behavioural patterns and improve performance outcomes, highlighting the practical application of data science in health and fitness.
+
 ---
 
 ## Tools Used

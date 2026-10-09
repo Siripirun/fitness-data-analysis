@@ -62,5 +62,5 @@ The analysis demonstrates how data-driven approaches can be used to understand b
 ---
 
 ## Author
-Siripirun (Tan) Saritasurarak
+Siri Saritasurarak
 
